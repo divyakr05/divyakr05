@@ -19,9 +19,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-339933?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 **Dev & Project Tools:**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
