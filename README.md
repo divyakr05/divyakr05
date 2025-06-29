@@ -8,17 +8,14 @@
 - 🤖 Love building test automation solutions that are **robust**, **scalable**, and **maintainable**
 - 🌱 Currently Exploring – Advanced Playwright Techniques, CI/CD Pipelines with GitHub Actions, AI Tools for QA Automation
 - ✨ Fun Facts - I believe: _“Quality is not an act, it's a habit.”_
+- 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/divyakarippali/)
 ---
 
 ### 🛠️ Tech Toolbox
 
-**Languages & Frameworks:**
-<p>
-  🟦 Java &nbsp;&nbsp; 🐍 Python &nbsp;&nbsp; 💛 JavaScript
-</p>
+**Languages & Frameworks:** 🟦 Java &nbsp;&nbsp; 🐍 Python &nbsp;&nbsp; 💛 JavaScript
 
-**🧪 Automation & Testing Tools:**
-
+**Automation & Testing Tools:**
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Rest Assured](https://img.shields.io/badge/Rest%20Assured-339933?style=flat-square)
@@ -26,17 +23,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Xray](https://img.shields.io/badge/Xray-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**🛠 Dev & Project Tools:**
-
+**Dev & Project Tools:**
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
----
-### 🔗 Let’s Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/divyakarippali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
 
 
