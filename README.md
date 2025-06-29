@@ -6,8 +6,8 @@
 
 - 🔍 I'm a test automation engineer based in Munich, Germany, focused on building **innovative** and **impactful testing solutions**
 - 🤖 Love building test automation solutions that are **robust**, **scalable**, and **maintainable**
-- 💡 Constantly learning and improving – **tech enthusiast** and **problem solver**
-
+- 🌱 Currently Exploring – Advanced Playwright Techniques, CI/CD Pipelines with GitHub Actions, AI Tools for QA Automation
+- ✨ Fun Facts - I believe: _“Quality is not an act, it's a habit.”_
 ---
 
 ### 🛠️ Tech Toolbox
@@ -33,36 +33,10 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyakr05&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyakr05&layout=compact&theme=radical)
-
----
-
-### 🌱 Currently Exploring
-
-- 🧠 Advanced Playwright Techniques  
-- 🔄 CI/CD Pipelines with GitHub Actions  
-- 🤖 AI Tools for QA Automation  
-
----
-
-### ✨ Fun Facts
-
-- 🌟 I believe: _“Quality is not an act, it's a habit.”_
-
----
-
 ### 🔗 Let’s Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/divyakarippali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
